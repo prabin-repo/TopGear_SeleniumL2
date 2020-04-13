@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34900" started-at="2020-04-10T12:47:29Z" finished-at="2020-04-10T12:48:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34900" started-at="2020-04-10T12:47:29Z" finished-at="2020-04-10T12:48:04Z">
+      <class name="com.wipro.testcases.TC004">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.wipro.testcases.TC004@1f0219d]" name="setUp" is-config="true" duration-ms="48785" started-at="2020-04-10T18:16:40Z" finished-at="2020-04-10T18:17:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:com.wipro.testcases.TC004@1f0219d]" name="login" duration-ms="9373" started-at="2020-04-10T18:17:29Z" data-provider="getData" finished-at="2020-04-10T18:17:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[prabinkr.behera@test.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="countMenuList()[pri:0, instance:com.wipro.testcases.TC004@1f0219d]" name="countMenuList" duration-ms="889" started-at="2020-04-10T18:17:39Z" finished-at="2020-04-10T18:17:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countMenuList -->
+        <test-method status="PASS" signature="mainMenuSnaps()[pri:0, instance:com.wipro.testcases.TC004@1f0219d]" name="mainMenuSnaps" duration-ms="19585" started-at="2020-04-10T18:17:40Z" finished-at="2020-04-10T18:17:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mainMenuSnaps -->
+        <test-method status="PASS" signature="logoutTest()[pri:0, instance:com.wipro.testcases.TC004@1f0219d]" name="logoutTest" duration-ms="4777" started-at="2020-04-10T18:17:59Z" finished-at="2020-04-10T18:18:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.wipro.testcases.TC004@1f0219d]" name="tearDown" is-config="true" duration-ms="1655" started-at="2020-04-10T18:18:06Z" finished-at="2020-04-10T18:18:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.wipro.testcases.TC004 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

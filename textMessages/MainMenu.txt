@@ -1,0 +1,16 @@
+Total number of menu are 8
+Main menu are:Desktops
+Total number of menu are 8
+Main menu are:Laptops & Notebooks
+Total number of menu are 8
+Main menu are:Components
+Total number of menu are 8
+Main menu are:Tablets
+Total number of menu are 8
+Main menu are:Software
+Total number of menu are 8
+Main menu are:Phones & PDAs
+Total number of menu are 8
+Main menu are:Cameras
+Total number of menu are 8
+Main menu are:MP3 Players
